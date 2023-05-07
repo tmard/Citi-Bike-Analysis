@@ -66,7 +66,7 @@ Average trip times were generally below 20 minutes in duration, however, there i
 
 
 **4. Mapped Stations**
-The top start and stop stations are Grove St. PATH and Hamilton Park. 
+The top start and stop stations are Grove St. PATH and Hamilton Park. Majority of riders stay within Jersey City.
 ![top_10_starting_stations](images/top_10_starting_stations.png) 
 
 ![top_10_ending_stations](images/top_10_ending_stations.png) 
